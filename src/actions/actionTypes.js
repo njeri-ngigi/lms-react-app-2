@@ -1,0 +1,10 @@
+export const authActionTypes = {
+    LOGGED_IN: 'LOGGED_IN',
+    LOGGING_IN: 'LOGGING_IN',
+    SIGNED_UP: 'SIGNED_UP',
+    SIGNING_UP: 'SIGNING_UP',
+    SIGNUP_ERRORS: 'SIGNUP_ERRORS',
+    LOGIN_ERRORS: 'LOGIN_ERRORS',
+    LOGOUT: 'LOGOUT',
+  };
+  

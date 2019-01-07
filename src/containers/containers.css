@@ -1,0 +1,14 @@
+.Signup,
+.Login {
+    margin-top: 70px;
+    text-align: center;
+}
+
+.Signup h3,
+.Login h3 {
+    margin-top: 50px;
+}
+
+h1{
+    text-align: center;
+}
